@@ -1,0 +1,31 @@
+.header{
+    background-color:lime;
+display: flex;
+justify-content: space-between;
+}
+
+.grid{
+    background-color: dodgerblue;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    background-color:red;
+    display:flex;
+    justify-content: flex-end;
+}
+
+a:link{
+    color: purple;
+}
+
+a:visited{
+    color: purple;
+}
+
+
+body{
+    background-color:greenyellow;
+}
